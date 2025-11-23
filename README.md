@@ -43,3 +43,4 @@ It improves prediction accuracy by helping the model understand:
 - Driving speed  
 - Morning/evening congestion
 
+<img width="845" height="875" alt="image" src="https://github.com/user-attachments/assets/8daa8043-a870-46ad-bbfc-bfbe907a95c8" />
